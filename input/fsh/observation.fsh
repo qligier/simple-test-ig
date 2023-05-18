@@ -27,5 +27,5 @@ Description:  "Records the one to three dimensions of a tumor"
 
 Instance: TumorSizeExample
 InstanceOf: TumorSize
-Description: "An example of a patient with a license to krill."
+Description: "An example of an Observation with a license to krill."
 * component[+].code = http://loinc.org#33728-7
