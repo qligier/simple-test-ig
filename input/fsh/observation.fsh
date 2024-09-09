@@ -29,3 +29,4 @@ Instance: TumorSizeExample
 InstanceOf: TumorSize
 Description: "An example of an Observation with a license to krill."
 * component[+].code = http://loinc.org#33728-7
+* nonexistent = "FooBar"
