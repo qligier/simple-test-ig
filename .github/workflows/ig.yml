@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: 'Build the IG'
-        uses: qligier/fhir-ig-action@problem-matchers
+        uses: qligier/fhir-ig-action@master
         with:
           ig-publisher: 'latest'
           sushi: 'latest'
